@@ -1,6 +1,5 @@
 import { StyleSheet, Image, View } from "react-native";
 import logo from "../assets/img/logo-imdb.png";
-import { Shadow } from "react-native-shadow-2";
 
 const Header = () => {
   return (

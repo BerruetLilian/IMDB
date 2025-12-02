@@ -11,8 +11,8 @@ import Header from "./components/Header.js";
 import movie from "./assets/img/movie.jpeg";
 import { AntDesign, Feather } from "@expo/vector-icons";
 import Carrousel from "./components/Carrousel.js";
-import { Shadow } from "react-native-shadow-2";
 
+// BOTTOM STATUS BAR
 const App = () => {
   return (
     <ScrollView style={styles.scrollView}>
